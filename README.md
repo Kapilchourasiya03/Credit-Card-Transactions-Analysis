@@ -26,7 +26,7 @@ This repository contains an analysis of credit card transaction data, providing 
   9. West Bengal
   10. Telangana
  
-      <img width="407" alt="Screenshot 2024-03-28 at 8 19 46 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/a18cd1ba-6844-4551-8f8d-63d238fd4509">
+  <img width="407" alt="Screenshot 2024-03-28 at 8 19 46 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/a18cd1ba-6844-4551-8f8d-63d238fd4509">
  
 
 ### 5. Top 10 Cities by Credit Card Transactions
@@ -41,7 +41,7 @@ This repository contains an analysis of credit card transaction data, providing 
   9. Kanpur
   10. Jaipur
  
-      <img width="419" alt="Screenshot 2024-03-28 at 8 20 58 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/c3b48640-4d30-446f-9830-89ed067fbc57">
+  <img width="419" alt="Screenshot 2024-03-28 at 8 20 58 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/c3b48640-4d30-446f-9830-89ed067fbc57">
 
 ### 6. Distribution of Credit Card Expenses by Categories
 - 1. Bills - 907.07M (22.26%)
@@ -51,7 +51,7 @@ This repository contains an analysis of credit card transaction data, providing 
   5. Grocery - 718.12M (17.63%)
   6. Travel - 109.26M (2.68%)
  
-     <img width="759" alt="Screenshot 2024-03-28 at 8 17 36 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/d6ee6681-01bd-4841-8ee9-a511428f3e34">
+<img width="325" alt="Screenshot 2024-03-28 at 8 18 52 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/0890778b-b6b7-4979-bab9-e41f2e030d6c">
 
 ### 7. Gender-specific Distribution of Expense in Each Category
 <img width="759" alt="Screenshot 2024-03-28 at 8 17 36 PM" src="https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/d6ee6681-01bd-4841-8ee9-a511428f3e34">

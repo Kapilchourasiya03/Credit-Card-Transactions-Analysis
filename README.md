@@ -47,6 +47,6 @@ This repository contains an analysis of credit card transaction data, providing 
   6. Travel - 109.26M (2.68%) 
 
 ### 7. Gender-specific Distribution of Expense in Each Category
-- [insert gender-specific distribution chart or table]
+- https://github.com/Kapilchourasiya03/Cc_transaction_analysis/blob/main/Category_distribution.png
 
 Stay tuned for detailed analysis and updates!

@@ -25,6 +25,7 @@ This repository contains an analysis of credit card transaction data, providing 
   8. Tamil Nadu
   9. West Bengal
   10. Telangana
+ 
 
 ### 5. Top 10 Cities by Credit Card Transactions
 - 1. Mumbai
@@ -47,6 +48,6 @@ This repository contains an analysis of credit card transaction data, providing 
   6. Travel - 109.26M (2.68%) 
 
 ### 7. Gender-specific Distribution of Expense in Each Category
-- ![Category_distribution](https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/145c098f-acb1-4738-a98e-c9733e9addf2)
+
 
 Stay tuned for detailed analysis and updates!

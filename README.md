@@ -3,6 +3,9 @@
 ## Overview
 This repository contains an analysis of credit card transaction data, providing insights into spending patterns and trends.
 
+![cc_transaction_analysis](https://github.com/Kapilchourasiya03/Cc_transaction_analysis/assets/165268497/0081ce32-f7de-43d8-9a9a-74921369dbd7)
+
+
 ## Findings
 
 ### 1. Total Expenditure by Credit Cards in India
